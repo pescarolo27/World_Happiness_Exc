@@ -6,4 +6,4 @@
 
 The five datasets were merged into a single Excel file containing sheets concerning notes about the datasets, the original datasets, modified versions of the datasets, analyses, & a final dashboard ("Dashboard").
 
-**Purpose:** An Excel dashboard was created to display relevant metrics according to the variables involved such as "happiness score", demographics, & more.
+**Purpose:** An Excel dashboard was created to display relevant metrics according to the variables involved such as "happiness scores", demographics, & more.
